@@ -12,6 +12,6 @@ https://www.loom.com/share/24f6ecd0c9484e2fb6878d4bd8a6c8db
 
 Once you publish your `gh-pages` branch, your final url will be something like this:
 
-https://kidgodzilla.github.io/puffer-firetv-example/
+https://soundmasteraj.github.io/puffer-firetv-example/
 
 (with the username being your own).
